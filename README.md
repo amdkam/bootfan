@@ -1,6 +1,10 @@
 # bootfan
 surf boot (or whatever you need ventilated) dry-i-nator
 
+BOM: 
+https://docs.google.com/spreadsheets/d/1TAQKnzWfSpOdNTUWoBDaFdAXEeysmlfYuwB9OTpateU/edit?usp=sharing
+
+[TODO] - assembly instructions
 
 ![afbeelding](https://user-images.githubusercontent.com/87802942/219500806-307355a2-b002-4cea-947f-1e53019409ab.png)
 
